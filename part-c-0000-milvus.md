@@ -1,1 +1,1 @@
-
+!pip install -U pymilvus
