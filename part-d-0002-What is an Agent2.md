@@ -40,7 +40,6 @@ For example, if I write an Agent to act as my personal assistant (like Siri) on 
 This will be a new Tool the Agent can use whenever it needs to send an email. We can write it in Python:
 
 def send_message_to(recipient, message):
-
     """Useful to send an e-mail message to a recipient"""
     ...
 
